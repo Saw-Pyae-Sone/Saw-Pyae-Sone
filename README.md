@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saw-Pyae-Sone</h1>
 <h3 align="center">A passionate Full Stack developer from Thailand</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw22qg72yCb8pdALU7DbZBd0&ust=1734769585401000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCR9bj2tYoDFQAAAAAdAAAAABBJ">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saw-pyae-sone&label=Profile%20views&color=0e75b6&style=flat" alt="saw-pyae-sone" /> </p>
 
