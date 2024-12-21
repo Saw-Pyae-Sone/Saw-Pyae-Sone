@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **sawpyaesone23@gmail.com**
 
-- 👨🏻‍💻 Working as a full-stack developer since early 2024
+- </> Working on **My Porfolio Website**
+
+- 👨🏻‍💻 Working as **full-stack developer since early 2024**
+
+- 💻 I am freelancing on **Upwork**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
