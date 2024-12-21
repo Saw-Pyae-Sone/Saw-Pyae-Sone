@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saw-Pyae-Sone</h1>
-<h3 align="center">A passionate Full Stack developer from Thailand</h3>
+<h3 align="center">Full Stack developer from Thailand</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
 
