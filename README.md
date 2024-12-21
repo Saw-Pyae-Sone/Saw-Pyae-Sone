@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Next.js**
 
-- 💬 Ask me about **MERN, Node.js**
+- 💬 Ask me about **MERN, Node.js, PHP, Django**
 
 - 📫 How to reach me **sawpyaesone23@gmail.com**
 
