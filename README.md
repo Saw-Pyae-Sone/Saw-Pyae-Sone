@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pyae-sone-15a799302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pyae-sone-15a799302" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/pyae-sone-15a799302" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saw-pyae-sone&show_icons=true&locale=en" alt="saw-pyae-sone" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saw-pyae-sone&" alt="saw-pyae-sone" /></p>
+
+<p><img src="https://raw.githubusercontent.com/Saw-Pyae-Sone/Saw-Pyae-Sone/output/snake.svg" alt="Snake animation" /></p>
