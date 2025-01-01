@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **sawpyaesone23@gmail.com**
 
+- 💼 I am available for **work**
+
 - </> Working on **My Porfolio Website**
 
 - 👨🏻‍💻 Working as **full-stack developer since early 2024**
