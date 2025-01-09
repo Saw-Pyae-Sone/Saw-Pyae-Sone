@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React Native, Next.js**
 
-- 💬 Ask me about **MERN, Node.js, PHP, Django, Python**
+- 💬 Ask me about **Node.js, PHP, Django, Python**
 
 - 📫 How to reach me **sawpyaesone23@gmail.com**
 
 - 💼 I am available for **work**
 
-- </> Working on **My Porfolio Website**
+- </> Working on **Burmese Bites Website**
 
 - 👨🏻‍💻 Working as **full-stack developer since early 2024**
 
