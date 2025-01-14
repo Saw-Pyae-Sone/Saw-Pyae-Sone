@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Node.js, PHP, Django, Python**
 
-- 📫 How to reach me **sawpyaesone23@gmail.com**
+- 📫 How to reach me **sawpyaesone23@gmail.com && sawpyaesoneth66@gmail.com**
 
 - 💼 I am available for **work**
 
