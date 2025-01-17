@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saw-pyae-sone&label=Profile%20views&color=0e75b6&style=flat" alt="saw-pyae-sone" /> </p>
 
-- 🌱 I’m currently learning **React Native, Next.js**
+- 🌱 I’m currently learning **React Native, Next.js, C# and .Net**
 
 - 💬 Ask me about **Node.js, PHP, Django, Python**
 
