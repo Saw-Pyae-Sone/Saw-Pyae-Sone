@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **sawpyaesone23@gmail.com && sawpyaesoneth66@gmail.com**
 
-- 💼 I am available for **work**
+- 💼 I am available for **Work**
 
-- </> Working on **Burmese Bites Website**
+- </> Working on **Side Project**
 
 - 👨🏻‍💻 Working as **full-stack developer since early 2024**
 
