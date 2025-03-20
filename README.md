@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saw-pyae-sone&label=Profile%20views&color=0e75b6&style=flat" alt="saw-pyae-sone" /> </p>
 
-- 🌱 I’m currently learning **React Native, Next.js, C# and .Net**
+- 🌱 I’m currently learning **C# and .Net**
 
-- 💬 Ask me about **Node.js, PHP, Django, Python**
+- 💬 Ask me about **Node.js, PHP, Django, Python, Next.js**
 
 - 📫 How to reach me **sawpyaesone23@gmail.com && sawpyaesoneth66@gmail.com**
 
 - 💼 I am available for **Work**
 
-- </> Working on **Side Project**
+- </> Working on **Side Projects**
 
 - 👨🏻‍💻 Working as **full-stack developer since early 2024**
 
