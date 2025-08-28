@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Saw-Pyae-Sone and I am from Thailand</h1>
+<h1 align="center">Hi 👋, My name is Saw-Pyae-Sone</h1>
 <h3 align="center">Software Engineer with expertise in Backend Development</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C# and .Net**
 
-- 💬 Ask me about **Node.js, PHP, Django, Python, Next.js**
+- 💬 Ask me about **Node.js, Nest.js, React, Next.js, Django**
 
 - 📫 How to reach me **sawpyaesone23@gmail.com && sawpyaesoneth66@gmail.com**
 
